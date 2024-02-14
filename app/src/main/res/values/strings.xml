@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtGalleryApp</string>
+    <string name="sparrow_name">Bird Sparrow Pan</string>
+    <string name="woman_terraces">Woman Teracces</string>
+    <string name="horse_animal">Horse Animal</string>
+    <string name="flowers_garden_spring">Flowers Garden Spring</string>
+    <string name="sparrow_author">John Black</string>
+    <string name="woman_author">Melicia White</string>
+    <string name="horse_author">Walter Thompson</string>
+    <string name="flowers_author">Peter Skywalker</string>
+    <string name="sparrow_year">2023</string>
+    <string name="woman_year">2021</string>
+    <string name="horse_year">2019</string>
+    <string name="flowers_year">2020</string>
+</resources>
