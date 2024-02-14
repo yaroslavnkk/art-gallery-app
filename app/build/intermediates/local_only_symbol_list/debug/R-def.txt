@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bird_sparrow_pen_2023
+drawable flowers_garden_spring_2020
+drawable horse_animal_2019
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable woman_terraces_2021
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string flowers_author
+string flowers_garden_spring
+string flowers_year
+string horse_animal
+string horse_author
+string horse_year
+string sparrow_author
+string sparrow_name
+string sparrow_year
+string woman_author
+string woman_terraces
+string woman_year
+style Theme.ArtGalleryApp
+xml backup_rules
+xml data_extraction_rules

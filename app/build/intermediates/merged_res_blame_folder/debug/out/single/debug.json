@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.artgalleryapp-merged_res-44:/drawable-nodpi_horse_animal_2019.jpg.flat",
+        "source": "com.example.artgalleryapp-main-46:/drawable-nodpi/horse_animal_2019.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.artgalleryapp-merged_res-44:/drawable-nodpi_woman_terraces_2021.jpg.flat",
+        "source": "com.example.artgalleryapp-main-46:/drawable-nodpi/woman_terraces_2021.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.artgalleryapp-merged_res-44:/drawable-nodpi_flowers_garden_spring_2020.jpg.flat",
+        "source": "com.example.artgalleryapp-main-46:/drawable-nodpi/flowers_garden_spring_2020.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yaroslav\\.gradle\\daemon\\8.2\\com.example.artgalleryapp-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.artgalleryapp-merged_res-44:/drawable-nodpi_bird_sparrow_pen_2023.jpg.flat",
+        "source": "com.example.artgalleryapp-main-46:/drawable-nodpi/bird_sparrow_pen_2023.jpg"
+    }
+]
